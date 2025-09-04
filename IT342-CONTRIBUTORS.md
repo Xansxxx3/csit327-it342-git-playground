@@ -18,4 +18,4 @@
 * Caranzo, Mac Howard (**@Howardness**)
 * Tabungar, Steven Jan (**@Smuffinn**)
 * verano, joel (**@VeranoJoel**)
-* Agramon, Vicci (\*\*@Xansxxx3\*\*)
+* Agramon, Vicci (**@Xansxxx3**)
